@@ -1,6 +1,6 @@
 # ONLINE-CINEMA-TICKET-BOOKING-SYSTEM
 
-a Console-Based Ticket Booking Experience highlights the nature of the application
+A Console-Based Ticket Booking Experience highlights the nature of the application
 
 # SUMMARY
 
